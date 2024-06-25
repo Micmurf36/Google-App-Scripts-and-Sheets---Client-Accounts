@@ -19,12 +19,3 @@ Streamline and automate data entry.
 Installation
 Clone the Repository
 
-sh
-Copy code
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
-Set Up Google Sheets
-
-Open Google Sheets and create a new spreadsheet.
-Create the necessary sheets (Create Invoice, Data). You can use the example templates provided in the templates directory of this repository.
-Copy the script files to your Google Apps Script editor linked to your spreadsheet.
